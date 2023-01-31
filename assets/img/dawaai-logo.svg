@@ -5,12 +5,35 @@
    height="112.32736"
    width="1005.9361"
    version="1.1"
+   sodipodi:docname="dawaai-logo.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview26"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.92084367"
+     inkscape:cx="763.43035"
+     inkscape:cy="208.50445"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg55293" />
   <metadata
      id="metadata55299">
     <rdf:rdf>
@@ -66,32 +89,35 @@
        stop-color="#000000"
        offset="100%" />
   </linearGradient>
+  <image
+     xlink:href=""
+     id="container"
+     x="99.132469"
+     y="-281.35977"
+     width="654.49548"
+     height="654.49548"
+     style="display:none" />
   <g
-     id="logo-group"
-     transform="matrix(1.3635322,0,0,1.3635322,-271.74829,-477.70842)">
-    <image
-       xlink:href=""
-       id="container"
-       x="272"
-       y="144"
-       width="480"
-       height="480"
-       style="display:none" />
+     id="g411"
+     transform="translate(-35.987295,-128.79663)"
+     style="fill:#66ffff;fill-opacity:1">
     <g
-       id="logo-center">
+       id="logo-center"
+       transform="matrix(1.3635322,0,0,1.3635322,-227.23769,-346.07068)"
+       style="fill:#66ffff;fill-opacity:1">
       <image
          xlink:href=""
          id="icon_container"
-         style="display:none" />
+         style="display:none;fill:#66ffff;fill-opacity:1" />
       <g
          id="slogan"
-         style="font-style:normal;font-weight:400;font-size:32px;line-height:1;font-family:Karma;font-variant-ligatures:none;text-align:center;text-anchor:middle" />
+         style="font-style:normal;font-weight:400;font-size:32px;line-height:1;font-family:Karma;font-variant-ligatures:none;text-align:center;text-anchor:middle;fill:#66ffff;fill-opacity:1" />
       <g
          id="title"
-         style="font-style:normal;font-weight:normal;font-size:72px;line-height:1;font-family:'Brandmark Sans 25';font-variant-ligatures:normal;text-align:center;text-anchor:middle">
+         style="font-style:normal;font-weight:normal;font-size:72px;line-height:1;font-family:'Brandmark Sans 25';font-variant-ligatures:normal;text-align:center;text-anchor:middle;fill:#66ffff;fill-opacity:1">
         <path
            id="path55302"
-           style="font-style:normal;font-weight:normal;font-size:72px;line-height:1;font-family:'Brandmark Sans 25';font-variant-ligatures:normal;text-align:center;text-anchor:middle"
+           style="font-style:normal;font-weight:normal;font-size:72px;line-height:1;font-family:'Brandmark Sans 25';font-variant-ligatures:normal;text-align:center;text-anchor:middle;fill:#66ffff;fill-opacity:1"
            d="m 360.42313,-50.4 h -38.95201 c -0.792,0 -1.512,0.72 -1.512,1.512 v 7.128 c 0,0.864 0.72,1.512 1.512,1.512 h 38.95201 c 5.47199,0 9.86399,4.464 9.86399,9.936 v 10.224 c 0,5.472 -4.392,9.936 -9.86399,9.936 h -30.312 v -18.36 c 0,-0.864 -0.64801,-1.512 -1.512,-1.512 h -7.12801 c -0.792,0 -1.512,0.648 -1.512,1.512 v 27 c 0,0.792 0.72,1.512 1.512,1.512 h 38.95201 c 11.08799,0 20.08799,-9 20.08799,-20.088 v -10.224 c 0,-11.088 -9,-20.088 -20.08799,-20.088 z"
            stroke-width="0"
            stroke-linejoin="miter"
@@ -101,7 +127,7 @@
            transform="matrix(1.29,0,0,1.29,-213.44996,417.42627)" />
         <path
            id="path55304"
-           style="font-style:normal;font-weight:normal;font-size:72px;line-height:1;font-family:'Brandmark Sans 25';font-variant-ligatures:normal;text-align:center;text-anchor:middle"
+           style="font-style:normal;font-weight:normal;font-size:72px;line-height:1;font-family:'Brandmark Sans 25';font-variant-ligatures:normal;text-align:center;text-anchor:middle;fill:#66ffff;fill-opacity:1"
            d="m 451.97113,-2.232 -21.67201,-41.832 c -2.23199,-4.32 -6.408,-7.416 -11.23199,-7.848 -5.76001,-0.504 -11.016,2.448 -13.60801,7.488 l -21.888,42.192 c -0.504,1.008 0.216,2.232 1.368,2.232 h 8.064 c 0.576,0 1.08,-0.288 1.368,-0.792 l 20.088,-38.952 c 0.936,-1.8 2.66401,-2.016 3.312,-2.016 0.648,0 2.37601,0.216 3.312,2.016 l 20.08801,38.952 c 0.288,0.504 0.79199,0.792 1.368,0.792 h 8.06399 c 1.15201,0 1.872,-1.224 1.36801,-2.232 z"
            stroke-width="0"
            stroke-linejoin="miter"
@@ -111,7 +137,7 @@
            transform="matrix(1.29,0,0,1.29,-194.09996,417.42627)" />
         <path
            id="path55306"
-           style="font-style:normal;font-weight:normal;font-size:72px;line-height:1;font-family:'Brandmark Sans 25';font-variant-ligatures:normal;text-align:center;text-anchor:middle"
+           style="font-style:normal;font-weight:normal;font-size:72px;line-height:1;font-family:'Brandmark Sans 25';font-variant-ligatures:normal;text-align:center;text-anchor:middle;fill:#66ffff;fill-opacity:1"
            d="m 526.50013,-50.4 h -7.12801 c -0.792,0 -1.51199,0.72 -1.51199,1.512 v 29.52 c 0,5.112 -4.10401,9.216 -9.144,9.216 h -2.44801 c -5.04,0 -9.144,-4.104 -9.144,-9.216 v -29.52 c 0,-0.864 -0.71999,-1.512 -1.584,-1.512 h -7.128 c -0.79199,0 -1.512,0.648 -1.512,1.512 v 29.52 c 0,3.312 0.864,6.48 2.304,9.216 h -14.112 c -5.112,0 -9.216,-4.104 -9.216,-9.216 v -29.52 c 0,-0.864 -0.648,-1.512 -1.512,-1.512 h -7.12799 c -0.79201,0 -1.512,0.648 -1.512,1.512 v 29.52 c 0,10.656 8.71199,19.368 19.36799,19.368 h 33.62401 c 10.65599,0 19.36799,-8.64 19.36799,-19.368 v -29.52 c 0,-0.864 -0.71999,-1.512 -1.58399,-1.512 z"
            stroke-width="0"
            stroke-linejoin="miter"
@@ -121,7 +147,7 @@
            transform="matrix(1.29,0,0,1.29,-174.74996,417.42627)" />
         <path
            id="path55308"
-           style="font-style:normal;font-weight:normal;font-size:72px;line-height:1;font-family:'Brandmark Sans 25';font-variant-ligatures:normal;text-align:center;text-anchor:middle"
+           style="font-style:normal;font-weight:normal;font-size:72px;line-height:1;font-family:'Brandmark Sans 25';font-variant-ligatures:normal;text-align:center;text-anchor:middle;fill:#66ffff;fill-opacity:1"
            d="m 599.768,-2.232 -21.672,-41.832 c -2.232,-4.32 -6.408,-7.416 -11.232,-7.848 -5.76,-0.504 -11.016,2.448 -13.608,7.488 L 531.368,-2.232 C 530.864,-1.224 531.584,0 532.736,0 h 8.064 c 0.576,0 1.08,-0.288 1.368,-0.792 l 20.088,-38.952 c 0.936,-1.8 2.664,-2.016 3.312,-2.016 0.648,0 2.376,0.216 3.312,2.016 l 20.088,38.952 C 589.256,-0.288 589.76,0 590.336,0 h 8.064 c 1.152,0 1.872,-1.224 1.368,-2.232 z"
            stroke-width="0"
            stroke-linejoin="miter"
@@ -131,7 +157,7 @@
            transform="matrix(1.29,0,0,1.29,-155.39996,417.42627)" />
         <path
            id="path55310"
-           style="font-style:normal;font-weight:normal;font-size:72px;line-height:1;font-family:'Brandmark Sans 25';font-variant-ligatures:normal;text-align:center;text-anchor:middle"
+           style="font-style:normal;font-weight:normal;font-size:72px;line-height:1;font-family:'Brandmark Sans 25';font-variant-ligatures:normal;text-align:center;text-anchor:middle;fill:#66ffff;fill-opacity:1"
            d="m 612.31625,-10.08 h -7.128 c -0.864,0 -1.512,0.72 -1.512,1.584 v 7.128 c 0,0.792 0.648,1.512 1.512,1.512 h 7.128 c 0.864,0 1.512,-0.72 1.512,-1.512 v -7.128 c 0,-0.864 -0.648,-1.584 -1.512,-1.584 z"
            stroke-width="0"
            stroke-linejoin="miter"
@@ -141,7 +167,7 @@
            transform="matrix(1.29,0,0,1.29,-136.04996,417.42627)" />
         <path
            id="path55312"
-           style="font-style:normal;font-weight:normal;font-size:72px;line-height:1;font-family:'Brandmark Sans 25';font-variant-ligatures:normal;text-align:center;text-anchor:middle"
+           style="font-style:normal;font-weight:normal;font-size:72px;line-height:1;font-family:'Brandmark Sans 25';font-variant-ligatures:normal;text-align:center;text-anchor:middle;fill:#66ffff;fill-opacity:1"
            d="m 686.25238,-2.232 -21.67201,-41.832 c -2.23199,-4.32 -6.408,-7.416 -11.23199,-7.848 -5.76,-0.504 -11.01601,2.448 -13.60801,7.488 l -21.88799,42.192 c -0.504,1.008 0.21599,2.232 1.36799,2.232 h 8.064 c 0.576,0 1.08,-0.288 1.368,-0.792 l 20.088,-38.952 c 0.936,-1.8 2.664,-2.016 3.312,-2.016 0.648,0 2.376,0.216 3.312,2.016 l 20.088,38.952 c 0.288,0.504 0.792,0.792 1.36801,0.792 h 8.06399 c 1.15201,0 1.872,-1.224 1.36801,-2.232 z"
            stroke-width="0"
            stroke-linejoin="miter"
@@ -151,7 +177,7 @@
            transform="matrix(1.29,0,0,1.29,-116.69996,417.42627)" />
         <path
            id="path55314"
-           style="font-style:normal;font-weight:normal;font-size:72px;line-height:1;font-family:'Brandmark Sans 25';font-variant-ligatures:normal;text-align:center;text-anchor:middle;display:none"
+           style="font-style:normal;font-weight:normal;font-size:72px;line-height:1;font-family:'Brandmark Sans 25';font-variant-ligatures:normal;text-align:center;text-anchor:middle;display:none;fill:#66ffff;fill-opacity:1"
            d="m 701.96862,-50.4 h -7.12799 c -0.792,0 -1.51201,0.648 -1.51201,1.512 v 47.376 c 0,0.792 0.72001,1.512 1.51201,1.512 h 7.12799 c 0.864,0 1.51201,-0.72 1.51201,-1.512 v -47.376 c 0,-0.864 -0.64801,-1.512 -1.51201,-1.512 z"
            stroke-width="0"
            stroke-linejoin="miter"
@@ -166,7 +192,8 @@
          y="-52"
          width="55.690609"
          height="55.690609"
-         transform="matrix(1.29,0,0,1.29,-97.349962,417.42627)" />
+         transform="matrix(1.29,0,0,1.29,-97.349962,417.42627)"
+         style="fill:#66ffff;fill-opacity:1" />
     </g>
   </g>
 </svg>
